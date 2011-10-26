@@ -8,6 +8,8 @@ char
 
 alloc
 init
+self
+super
 
 @interface
 
