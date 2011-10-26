@@ -1,4 +1,3 @@
-Foundation
 argc
 argv
 main
@@ -10,5 +9,6 @@ char
 alloc
 init
 
-NSAutoReleasePool
+Foundation
+NSAutoreleasePool
 NSLog
