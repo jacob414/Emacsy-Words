@@ -15,6 +15,8 @@ stringWithFormat
 initWithFormat
 
 @interface
+@synthesize
+@property
 
 Foundation
 
