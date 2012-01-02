@@ -22,7 +22,7 @@ DateTimeField
 DecimalField
 EmailField
 FileField
-FileField and FieldFile
+FieldFile
 FilePathField
 FloatField
 ImageField
