@@ -11,6 +11,9 @@ init
 self
 super
 
+stringWithFormat
+initWithFormat
+
 @interface
 
 Foundation
@@ -193,3 +196,6 @@ NSXMLDTDNode
 NSXMLElement
 NSXMLNode
 NSXMLParser
+
+absoluteString
+initWithScheme
