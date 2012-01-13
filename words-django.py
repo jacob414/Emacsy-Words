@@ -59,3 +59,5 @@ unique_for_month
 unique_for_year
 verbose_name
 validators
+
+register
