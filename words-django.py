@@ -1,6 +1,7 @@
 django
 util
 contrib
+admin
 db
 connection
 cursor
